@@ -41,7 +41,11 @@ This project helped me strengthen my skills in:
 - Data cleaning and transformation  
 - Data modeling  
 - DAX calculations  
-- Business storytelling using data  
+- Business storytelling using data
+
+📷 Dashboard Preview
+<img width="1378" height="765" alt="image" src="https://github.com/user-attachments/assets/240785f2-1411-4792-a96a-5639f1169e5d" />
+
 
 🔹 Author
 **Shubham Chaudhari**  
